@@ -1,14 +1,14 @@
-Insight 1 — from Q1 or Q5 (category revenue)
-Which category drove the most revenue and by how much? What does that suggest the business should do (stock more, promote more, focus ad spend)?
+Insight 1 - from Q1 or Q5 (category funding)
+Which category received the highest funding, and what does it suggest about investor interest?
 
-Electronics was the top revenue-generating category, contributing 43% of total revenue — nearly ₹6,000 more than the next category, Accessories. The business should ensure consistent stock availability for Electronics to meet sustained demand. Simultaneously, lower-performing categories like Fitness and Fashion need targeted promotions to improve their revenue share and reduce over-dependence on a single category.
+Biotech received the highest total funding at around $66.87B, contributing about 16.19% of total recorded funding. Software had more funded companies, but biotech attracted larger funding amounts overall. This shows that looking only at company count can be misleading. For business analysis, funding amount and number of funded companies should be compared together before deciding which category is performing strongest.
 
-Insight 2 — from Q3 or Q8 (monthly trend / MoM change)
-What pattern did you see across months? Any spike or dip? What could explain it from a business perspective?
+Insight 2 - from Q3 or Q8 (yearly trend / YoY change)
+What pattern did funding show across the years? Was there any major rise or fall?
 
-Revenue peaked in January 2023 and declined majorly through February, recovering gradually before rising again in July — which recorded the highest mid-year revenue. The second half showed relative stability but never returned to January levels, closing the year at ₹3,000+. This pattern suggests a "possible" seasonal demand cycle or a January effect that wasn't sustained. The business should investigate whether discounting or campaign timing strategies drove the January and July peaks, and do the same moreover again to replicate those conditions.
+Funding increased strongly after 2004 and stayed high through 2006 to 2008. It dropped in 2009, then reached its highest point in 2010 at around $55.19B. This suggests that funding activity was affected by wider market conditions, but the recovery was quick in the following year. A business analyst should not treat one weak year as a category problem without checking the broader timeline.
 
-Insight 3 — from Q2 or Q7 (customer behaviour)
-Who are the high-value or repeat customers? What does that tell the business about retention or loyalty?
+Insight 3 - from Q2 or Q7 (top companies and country concentration)
+Which companies or countries dominate the funding data, and what does that tell us?
 
-Arjun Mehta, Priya Nair, and Ananya Singh were the highest-value repeat customers of the year. Only 50% of the customer base placed more than one order, indicating a retention problem — the business is acquiring customers but not bringing them back. A post-purchase follow-up strategy targeting these one-time buyers could significantly improve repeat purchase and lifetime value and their loyalty.
+The highest funded companies are concentrated mostly in the USA, with Clearwire, Verizon Communications, and sigmacare leading the list. The USA also has the highest number of funded companies by a large margin, followed by countries like GBR, CAN, FRA, ISR, DEU, and IND. This shows that the dataset is useful for comparing startup funding patterns, but country-level concentration should be considered before making global conclusions.
